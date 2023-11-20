@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525515365450",
+    "project_id": "kotlintesti",
+    "storage_bucket": "kotlintesti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525515365450:android:3c76298a75442576ea9ab3",
+        "android_client_info": {
+          "package_name": "com.example.firebasetesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbrK10VbNg66EgZXA7bqMNwUqDuqk88k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
